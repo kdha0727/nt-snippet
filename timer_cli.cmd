@@ -1,5 +1,6 @@
 @echo off
 @REM CLI Timer - based on ping
+@REM Created on 2019. 02. 01.
 title Timer
 pushd %~dp0
 
